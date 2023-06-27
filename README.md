@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Watisenla
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning ML,Blockchain i am everywhere
+- 🌱 I’m currently learning AI,Web3,I am everywhere
 - 📫 How to reach me squashreads@gmail.com
 
 <!---
